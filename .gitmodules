@@ -5,6 +5,9 @@
 [submodule "daltoolbox"]
 	path = daltoolbox
 	url = https://github.com/cefet-rj-dal/daltoolbox
+[submodule "daltoolboxdp"]
+	path = daltoolboxdp
+	url = https://github.com/cefet-rj-dal/daltoolboxdp
 [submodule "harbinger"]
 	path = harbinger
 	url = https://github.com/cefet-rj-dal/harbinger
