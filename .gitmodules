@@ -11,3 +11,6 @@
 [submodule "harbinger"]
 	path = harbinger
 	url = https://github.com/cefet-rj-dal/harbinger
+[submodule "heimdall"]
+	path = heimdall
+	url = https://github.com/cefet-rj-dal/heimdall
