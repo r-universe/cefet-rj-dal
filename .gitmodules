@@ -14,3 +14,6 @@
 [submodule "heimdall"]
 	path = heimdall
 	url = https://github.com/cefet-rj-dal/heimdall
+[submodule "tspredit"]
+	path = tspredit
+	url = https://github.com/cefet-rj-dal/tspredit
